@@ -1,0 +1,25 @@
+How do you create a new SQLite database using Python?
+How do you connect to an existing SQLite database using Python?
+How do you create a new table in SQLite using Python?
+How do you insert data into an SQLite table using Python?
+How do you update data in an SQLite table using Python?
+How do you delete data from an SQLite table using Python?
+How do you query data from an SQLite table using Python?
+How do you execute multiple SQL statements in a single SQLite transaction using Python?
+How do you retrieve the last inserted row ID in SQLite using Python?
+How do you count the number of rows in an SQLite table using Python?
+How do you get the column names of an SQLite table using Python?
+How do you fetch all rows from an SQLite query result using Python?
+How do you limit the number of rows returned by an SQLite query using Python?
+How do you order the rows returned by an SQLite query using Python?
+How do you create an index on an SQLite table using Python?
+How do you perform a join operation in SQLite using Python?
+How do you perform a left join in SQLite using Python?
+How do you perform an inner join in SQLite using Python?
+How do you perform an outer join in SQLite using Python?
+How do you perform a group by operation in SQLite using Python?
+How do you calculate the average value of a column in an SQLite table using Python?
+How do you find the maximum value in a column of an SQLite table using Python?
+How do you find the minimum value in a column of an SQLite table using Python?
+How do you perform a wildcard search in SQLite using Python?
+How do you execute raw SQL statements in SQLite using Python?
